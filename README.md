@@ -454,7 +454,7 @@ Cloud based FEA/CFD
 [Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 26th. *Promo code*: `CATIA4FREE17`
 
 #### NX
-<img src="../test/img/nx.svg" width="144" align="left" />
+<img src="https://raw.githubusercontent.com/Clockmaker/awesome-mecheng/test/img/nx.svg?sanitize=true" width="144" align="left" />
 
 *Formely known as* Unigraphics.
 * [NX Resources](https://www.plm.automation.siemens.com/en/academic/resources/nx/index.shtml) `Siemens`
