@@ -2,12 +2,6 @@
 
 ![Banner Image](../master/img/open-end-wrench-2452245_1920.jpg)
 
-<div align="right">
-
-|&bigstar; **Ctrl+D**|
-|---|
-</div>
-
 _So many free resources are available for computer science students and I am jealous. Therefore, I started making this list for mechanical engineering students. This section contains some overview resources, rules and regulations, and advice._
 
 Check the [contributions guideline](../master/contributions.md)
@@ -22,7 +16,7 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
 
 <a name="toc"></a>Table of Contents
 -----------------
-<details open><summary>Hide/Show</summary><br/>
+<details open><summary><sup>Hide</sup>/<sub>Show</sub></summary><br/>
 
 [Preamble](#preamble)
 
@@ -53,6 +47,7 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
   * [Continuum Mechanics](#continuum)
   * [Statics and Dynamics](#statics&dynamics)
   * [Strength of Materials](#strength)
+  * [Plasticity](#plasticity)
 
 [Theory of Machines](#machine)
   * [Mechanism Design](#mechanism-design)
@@ -66,6 +61,8 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
   * [Gas Dynamics](#gas-dynamics)
 
 [Manufacturing](#manufacturing)
+  * [CAD/CAM](#cadcam)
+  * [Sheet Metal Forming](#sheet-metal-forming)
 
 [Finite Element Analysis](#fea)
 
@@ -78,8 +75,8 @@ Licensed under [GNU General Public License v3.0](../master/LICENSE.MD)
 [Sub Reddits](#subreddits)
 
 [Top Publication Venues for Different Fields](#publication)
-  * Journals
-  * Magazines
+  * [Journals](#journals)
+  * [Magazines](#magazines)
 
 [Competitions](#competition)
 
@@ -99,6 +96,7 @@ I got inspiration from the countless awesome lists in github.
 * [InTech](https://www.intechopen.com/books/subject/mechanical-engineering), Open Acess book publisher
 
 ## General
+* [ASME The Unwritten Laws of Engineering](http://rotorlab.tamu.edu/me489_SP11/README/2010%20ASME%20Unwritten_Laws_of_Enginering.pdf), what the beginner needs to learn at once, by K.J. King and J.G. Skakoon (1944)
 * [A Dictionary of Units of Measurement](https://www.unc.edu/~rowlett/units/) `UNC.edu`
 
 #### <a name="database"></a>Databases
@@ -136,7 +134,7 @@ I got inspiration from the countless awesome lists in github.
 
 #### Patents
 * [Google Patents](https://www.google.com/patents/)
-* [European Pantent Office](https://worldwide.espacenet.com/)
+* [European Patent Office](https://worldwide.espacenet.com/)
 * [United States Patent and Trademark Office](https://www.uspto.gov/)
 
 #### <a name="blog"></a>Blogs and Forums
@@ -148,6 +146,8 @@ I got inspiration from the countless awesome lists in github.
 * [ScarbsTech](http://scarbsf1.com/), everything technical in F1
 * [GlobalSpec](http://insights.globalspec.com/)
 * [Hackaday](https://hackaday.com/)
+* [Plastics Engineering Blog](https://plasticsengineeringblog.com/)
+* [3D CAD World](http://www.3dcadworld.com/)
 
 ---
 <div align="right">
@@ -157,19 +157,22 @@ I got inspiration from the countless awesome lists in github.
 
 ## <a name="math"></a>Mathematics
 ### Calculus and Linear Algebra
-* [Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/), by G. Strang. [Direct download](http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) `MIT.edu` 
+* [Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/), by [G. Strang](http://www-math.mit.edu/~gs/). [Direct download](http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) `MIT.edu` 
 * [Online Mathematics Textbooks](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html), list of free books cured by [G. Cain](http://people.math.gatech.edu/%7Ecain/index.html)
 * [Essentials of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), by [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) `youtube`
 * [Introduction to Tensor Analysis](http://ruina.mae.cornell.edu/Courses/ME6700/references/block_tensor_analysis.pdf), by H.D. Block. *Out of print* `Cornell.edu`
 * [The Matrix Cookbook](http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=3274), by K.B. Petersen, M.S. Pedersen (2012) `DTU.dk`
+* [Fundamentals of Linear Algebra and Optimization](http://www.cis.upenn.edu/~cis515/linalg.pdf), by [J. Gallier](http://www.cis.upenn.edu/~jean/home.html) and J. Quaintance (2017) `UPenn.edu`
 
 ### Numerical Analysis
 * [Numerical Analysis for Engineering](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/), by D.W. Harder and R. Khoury `UWaterloo.ca`
 * [Numerical Recipes in C](http://www.nrbook.com/a/bookcpdf.html), by W.H. Press, B.P. Flannery, S.A. Teukolsky and W.T. Vetterly (1992) *Free for personal use*
 * [Numerical Methods for PDEs](https://www.youtube.com/channel/UCPVvF1gF2NMNWV-GQCCrpKQ/videos), by Qiqi Wang `MIT.edu` `youtube`
+* [Math, Numerics, & Programming (for Mechanical Engineers)](http://ocw.mit.edu/ans7870/2/2.086/F14/MIT2_086S13_Textbook.pdf), M. Yano, J.D. Penn, G. Konidaris and A.T Patera (2013) *Draft v2.1* `MIT.edu`
 
 ## Programming
 * [Free programming books](https://github.com/vhf/free-programming-books) `github`
+* [Project Euler](https://projecteuler.net/), math/programming problems archives
 
 ### <a name="cpp"></a>C++
 * [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) `stackoverflow`
@@ -212,10 +215,14 @@ I got inspiration from the countless awesome lists in github.
 ### <a name="continuum"></a>Continuum Mechanics
 * [Introduction to the Mechanics of a Continuous Medium, L.E. Malvern](https://archive.org/details/in.ernet.dli.2015.140589) (1969) *Copyright expired* `Archive.org`
 * Many lecture notes links available from [iMechanica](http://imechanica.org/node/1551) (2007)
-* [Applied Mechanics of Solids](http://solidmechanics.org/contents.php), by A.F. Bower (2012) also on [Amazon](https://www.amazon.com/Applied-Mechanics-Solids-Allan-Bower/dp/1439802475/). 
-400 practice problems and sample FEA code.
+* [Applied Mechanics of Solids](http://solidmechanics.org/contents.php), by [A.F. Bower](https://vivo.brown.edu/display/albower) (2012) [[Amazon](https://www.amazon.com/Applied-Mechanics-Solids-Allan-Bower/dp/1439802475/)]
+&emsp; <sub><sup>ISBN: 978-1439802472</sup></sub>
 * [Continuum Mechanics](http://www.continuummechanics.org/index.html), by B. McGinty (2012)
 * [Introduction to Continuum Mechanics for Engineers](http://oaktrust.library.tamu.edu/bitstream/handle/1969.1/2501/IntroductionToContinuumMechanicsRevisedEdition.pdf?sequence=6&isAllowed=y), by R.M. Bowen (1989) `Tamu.edu`
+
+#### Theory of Plates and Shells
+* [Theory of Plates and Shells](https://archive.org/details/TheoryOfPlatesAndShells) by S. Timoshenko and S. Woinowsky-Krieger (1959) `Archive.org`
+&emsp; <sub><sup>ISBN: 978-0070647794</sup></sub>
 
 ### <a name="statics&dynamics"></a>Statics and Dynamics
 * [Introduction to Statics and Dynamics](http://ruina.tam.cornell.edu/Book/) `Cornell.edu`
@@ -239,7 +246,7 @@ I got inspiration from the countless awesome lists in github.
 ### Plasticity
 * [The Mathematical Theory of Plasticity](https://archive.org/details/in.ernet.dli.2015.84513), by R. Hill (1950) `Archive.org`
 * [Computational Methods for Plasticity](https://www.amazon.com/Computational-Methods-Plasticity-Theory-Applications/dp/0470694521/), by E.A. de Souza Neto, D. Peric & D.R.J. Owen  `Amazon`
-&emsp;&bull; <sub><sup>ISBN: 978-0470694527</sup></sub>
+&emsp; <sub><sup>ISBN: 978-0470694527</sup></sub>
 
 ## <a name="machine"></a>Theory of Machines
 ### Mechanism Design
@@ -257,12 +264,17 @@ I got inspiration from the countless awesome lists in github.
 * [Feedback Systems](http://www.cds.caltech.edu/~murray/books/AM08/pdf/am08-complete_30Aug11.pdf) by K.J. Åström and R. Murray (2011) `CalTech.edu`
 * [Classical Control Theory](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk), by Brian Douglas `youtube`
 * [Control Systems](https://en.wikibooks.org/wiki/Control_Systems) `wikibooks`
+* [System Design for Uncertainty](https://ocw.mit.edu/courses/mechanical-engineering/2-017j-design-of-electromechanical-robotic-systems-fall-2009/course-text/MIT2_017JF09_coursetext.pdf), by F.S. Hover & M.S. Triantafyllou (2009) `MIT.edu`
 
 ### Robotics
 * [Awesome Robotics List](https://github.com/Kiloreux/awesome-robotics), by [@Kiloreux](https://github.com/kiloreux) `github`
 * [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition) `Caltech.edu`
 
 ---
+<div align="right">
+
+<sup>[Back to Top](#toc)</sup> &Hat;
+</div>
 
 ## <a name="thermo"></a>Thermal Engineering
 ### Thermodynamics
@@ -270,15 +282,16 @@ I got inspiration from the countless awesome lists in github.
 * [MIT OpenCourseWare: Thermodynamics & Kinematics Lecture Series](https://ocw.mit.edu/courses/chemistry/5-60-thermodynamics-kinetics-spring-2008/) `MIT.edu`
 * [Wikibooks: Engineering Thermodynamics](https://en.wikibooks.org/wiki/Engineering_Thermodynamics) `Wikibooks`
 * [Fundamentals of Engineering Thermodynamics](https://www.amazon.com/Fundamentals-Engineering-Thermodynamics-Michael-Moran/dp/0471787353/), by M.J. Moran & H.N. Shapiro. `Amazon`
-&emsp;&bull; <sub><sup>ISBN: 978-0471274711</sup></sub>
+&emsp; <sub><sup>ISBN: 978-0471274711</sup></sub>
 * [Thermodynamics: An Engineering Approach](https://www.amazon.com/Thermodynamics-Engineering-Yunus-Cengel-Dr/dp/0073398179/), by Y.A. Cengel & M.A. Boles. `Amazon`
-&emsp;&bull; <sub><sup>ISBN: 978-0073398174</sup></sub>
+&emsp; <sub><sup>ISBN: 978-0073398174</sup></sub>
 
 ### Heat Transfer
 * [MIT OpenCourseWare: Introduction to Heat Transfer](https://ocw.mit.edu/courses/mechanical-engineering/2-051-introduction-to-heat-transfer-fall-2015/) `MIT.edu`
+* [A Heat Transfer Textbook](http://web.mit.edu/lienhard/www/ahtt.html), by J.H. Lienhard IV and [J.H. Lienhard V](http://meche.mit.edu/people/faculty/lienhard@mit.edu) (2017) `MIT.edu` 
 * [Wikibooks: Heat Transfer](https://en.wikibooks.org/wiki/Heat_Transfer) `Wikibooks`
 * [Fundamentals of Heat and Mass Transfer](https://www.amazon.com/Fundamentals-Heat-Mass-Transfer-5th/dp/0471386502/) , by F.P. Incropera & D.P. DeWitt. `Amazon`
-&emsp;&bull; <sub><sup>ISBN: 978-0471386506</sup></sub>
+&emsp; <sub><sup>ISBN: 978-0471386506</sup></sub>
 
 ### Fluid Mechanics
 * [NASA's Basic Fluid Mechanics Notes](https://www.grc.nasa.gov/www/k-12/airplane/mass.html) `NASA`
@@ -286,12 +299,12 @@ I got inspiration from the countless awesome lists in github.
 * [Wikibooks: Fluid Mechanics](https://en.wikibooks.org/wiki/Fluid_Mechanics) `Wikibooks`
 * Thermophysical properties of water and steam: [International Association for the Properties of Water and Steam](http://iapws.org/relguide/IAPWS-95.html)
 * [Fundamentals of Fluid Mechanics](https://www.amazon.com/Fundamentals-Fluid-Mechanics-Bruce-Munson/dp/047144250X), by B.R. Munson, D.R. Young & T.H. Okiishi. `Amazon`
-&emsp;&bull; <sub><sup>ISBN: 978-0471442509</sup></sub>
+&emsp; <sub><sup>ISBN: 978-0471442509</sup></sub>
 
 ### Gas Dynamics
 * [NASA's Compressible Fluids/Aerodynamics Notes](https://www.grc.nasa.gov/www/k-12/airplane/shortc.html) `NASA`
 * [Modern Compressible Flow: With Historical Perspective](https://www.amazon.com/Modern-Compressible-Flow-Historical-Perspective/dp/0071241361/), by J.D. Anderson. `Amazon`
-&emsp;&bull; <sub><sup>ISBN: 978-0072424430</sup></sub>
+&emsp; <sub><sup>ISBN: 978-0072424430</sup></sub>
 
 ---
 <div align="right">
@@ -300,12 +313,36 @@ I got inspiration from the countless awesome lists in github.
 </div>
 
 ## Manufacturing
+
+* [A.J. Hart](http://meche.mit.edu/people/faculty/ajhart@mit.edu)'s [Presentations](https://www.slideshare.net/AJohnHart/presentations) `slideshare`
+
+### CAD/CAM
+
+#### Theory
+* [Shape Interrogation for CAD and Manufacturing](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/), by N.M. Patrikalakis, T. Maekawa & W. Cho (2009). `MIT.edu` ([Amazon](https://www.amazon.com/exec/obidos/ASIN/3540424547/qid=1014647930/sr=8-1/ref=sr_)) 
+* [Geometric and Solid Modeling](https://www.cs.purdue.edu/homes/cmh/distribution/books/geo.html), by C.M. Hoffman (1992) *Out of Print* `Purdue.edu`
+* [Computer Aided Geometric Design](http://tom.cs.byu.edu/~557/text/cagd.pdf), by T.W. Sederberg (2006) `BYU.edu`
+* [Curves and Surfaces in Geometric Modeling](http://www.cis.upenn.edu/~jean/gbooks/geom1.html) by [J. Gallier](http://www.cis.upenn.edu/~jean/home.html) (1999) *Out of Print* `UPenn.edu`
+&emsp; <sub><sup>ISBN: 978-1558605992</sup></sub>
+
+#### Learning and Tutorials
+* [Vertanux1](http://www.vertanux1.com/), Training Guides: Creo, Solidworks, NX, Inventor, Rhino3d.
+  * [vertanux1's channel](https://www.youtube.com/user/vertanux1/) `youtube`
+
+##### Technique
+* **Resilient Modeling Strategy (RMS)**
+  * [A Resilient Modeling Strategy](https://community.plm.automation.siemens.com/siemensplm/attachments/siemensplm/solid-edge-tkb/159/1/122%20-%20A%20Resilient%20Modeling%20Strategy%20%20-%20Richard%20Gebhard.pdf), by R. Gebhard (Slides) `Siemens`
+    * [RMS Presentation](https://www.youtube.com/watch?v=QGj3hwtyZxQ) `youtube`
+  * [Learn RMS](http://learnrms.com/)
+* **Horizontal Modeling**
+  * [Horizontally structured CAD/CAM modeling-vertical to horizontal conversion [US 7472044 B2]](https://www.google.com/patents/US7472044) `patent`
+  * [Product/Process Design using Horizontally Structured Modeling](www.dezignstuff.com/swparts/Delphi-Burke.pdf), by Delphi Automotive `dezignstuff.com`
+  * [Going Horizontal (The failed promise of parametric CAD, part 4)](http://www.3dcadworld.com/going-horizontal/) `3dcadworld.com`
+
 ### Sheet Metal Forming
 * [Mechanics of Sheet Metal Forming](https://www.amazon.com/Mechanics-Sheet-Metal-Forming-Second/dp/0750653000), by Z. Marciniak, J.L. Duncan and S.J. Hu (2002) `Amazon`
-&emsp;&bull; <sub><sup>ISBN: 978-0750653008</sup></sub>
+&emsp; <sub><sup>ISBN: 978-0750653008</sup></sub>
 * [SheetMetal.me](http://sheetmetal.me/)
-### CAD/CAM Theory
-* [Shape Interrogation for CAD and Manufacturing](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/), by N.M. Patrikalakis, T. Maekawa & W. Cho (2009). `MIT.edu` ([Amazon](https://www.amazon.com/exec/obidos/ASIN/3540424547/qid=1014647930/sr=8-1/ref=sr_)) 
 
 ---
 <div align="right">
@@ -316,11 +353,15 @@ I got inspiration from the countless awesome lists in github.
 ## <a name="fea"></a>Finite Element Analysis
 * [Finite Element Procedures](http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf), by [K.J. Bathe](http://meche.mit.edu/people/faculty/kjb@mit.edu) (2014) `MIT.edu`
 * [Introduction to the Finite Element Method](http://hyfem.com/HyFem/fem.pdf), by C.S. Jog
+* [Introduction to Finite Element Methods] `Colorado.edu`
+  * [Advance FEM](https://www.colorado.edu/engineering/CAS/courses.d/AFEM.d/Home.html)
+  * [Nonlinear FEM](https://www.colorado.edu/engineering/CAS/courses.d/NFEM.d/Home.html)
 
 ###### Good Reads
 * [Meshing of complex geometrical domains](http://engineering.stackexchange.com/a/7326/2918) `stackexchange`
 * [What Is a Good Linear Finite Element?](http://people.eecs.berkeley.edu/~jrs/papers/elemj.pdf) by [J.R. Shewchuk](http://people.eecs.berkeley.edu/~jrs/) (2002) `Berkeley.edu`
 * [How Can I learn Finite Element Analysis?](https://www.simscale.com/blog/2016/11/learn-finite-element-analysis-fea/) `simscale`
+* [Why CAD Surface Geometry is Inexact](https://blog.pointwise.com/2017/11/29/why-cad-surface-geometry-is-inexact/) `pointwise`
 
 #### Code
 * [deal.II](https://www.dealii.org/) (C++ library)
@@ -338,7 +379,9 @@ I got inspiration from the countless awesome lists in github.
 * [Code_Aster](https://www.code-aster.org/)
 * [CalculiX](http://www.calculix.de/)
 * [Elmer](https://www.csc.fi/web/elmer)
-* [awesome-cae](https://github.com/qd-cae/awesome-CAE)
+
+###### Further reading
+* [awesome-CAE](https://github.com/qd-cae/awesome-CAE) `github`
 
 #### ANSYS
 [Student/Free version](http://www.ansys.com/academic/free-student-products): Available for anyone with limited capability and usage for learning purpose. This is a video explaining how to [download and install ANSYS Student Release 17.2 from Ansys How To official channel](https://www.youtube.com/watch?v=rV-xr_D18hM)
@@ -388,6 +431,10 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 * [Altair HyperWorks Online Training series - Meshing, Analysis & Post-processing](https://www.youtube.com/playlist?list=PLJRDa46CU8JIraHKqVbX5K2-nImf1UMHQ)
 
 #### Simscale
+>Website: [https://www.simscale.com/](https://www.simscale.com/)
+
+Cloud based FEA/CFD
+
 
 ### <a name="for-control"></a>For Control Engineering
 ###### MATLAB
@@ -408,24 +455,35 @@ Hyperworks is a complete commercial suite of Preprocessing, Solving, and Postpro
 *Formely known as* Unigraphics.
 * [NX Resources](https://www.plm.automation.siemens.com/en/academic/resources/nx/index.shtml) `Siemens`
 
+#### Creo
+*Formerly known as* Pro/ENGINEER.
+>Website: [https://www.ptc.com/](https://www.ptc.com/)
+>
+>Student Edition: [https://www.ptc.com/en/academic-program/products/free-software](https://www.ptc.com/en/academic-program/products/free-software) 
 
+#### SolidWorks
 
+* [Solidworks Resources](http://www.solidworks.com/sw/resources/solidworks-tutorials.htm) `Solidworks`
+
+#### Solid Edge
+
+* [Solid Edge Resources](https://community.plm.automation.siemens.com/t5/Solid-Edge/ct-p/solid-edge) `Siemens`
+ 
+#### OnShape
+>Website: [https://www.onshape.com/](https://www.onshape.com/)
+
+Cloud Based CAD
 
 ###### OpenSource
-
 
 #### FreeCAD
 >Website: [http://www.openscad.org/](http://www.openscad.org/)
 
 *Geometric Kernel* [OpenCASCADE](https://github.com/tpaviot/oce)
 
-* [CadQuery Plugin for FreeCAD](https://github.com/jmwright/cadquery-freecad-module), "python based language for building parametric models" [[Wiki](https://github.com/jmwright/cadquery-freecad-module/wiki)]
+* [A FreeCAD mnaual](https://www.gitbook.com/book/yorikvanhavre/a-freecad-manual/details) `GitBook`
+* [CadQuery Plugin for FreeCAD](https://github.com/jmwright/cadquery-freecad-module), python based language for building parametric models [[Wiki](https://github.com/jmwright/cadquery-freecad-module/wiki)]
   * [CadQuery Documentation](http://dcowden.github.io/cadquery/)
-
-#### OnShape
->Website: [https://www.onshape.com/](https://www.onshape.com/)
-
-Cloud Based CAD
 
 #### OpenSCAD
 >Website: [http://www.openscad.org/](http://www.openscad.org/)
@@ -440,13 +498,6 @@ Script based modeller
 <details><summary><b>Coming Soon</b></summary>
 <!-- Empty sections Bloat: move out when ready  -->
 
-#### SolidWorks
-
-#### Solid Edge
-
-#### Creo 
-*Formerly known as* Pro/ENGINEER.
-
 
 #### SpaceClaim
 
@@ -458,7 +509,7 @@ Script based modeller
 
 #### SketchUp
 
-#### <a name="#rhino"></a>Rhinoceros 3D
+#### Rhinoceros 3D
 </details>
 
 ---
