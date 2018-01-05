@@ -478,7 +478,10 @@ Cloud based FEA/CFD
 
 
 #### Creo
-<table><tbody><tr>
+<table>
+<col width="130">
+<col width="670">
+<tr>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/PTC_Creo.png" width="144" align="left" /></td>
 <td>
 
@@ -488,7 +491,7 @@ Cloud based FEA/CFD
 >Student Edition: [https://www.ptc.com/en/academic-program/products/free-software](https://www.ptc.com/en/academic-program/products/free-software) 
 
 </td>
-</tr></tbody></table>
+</tr></table>
 
 
 #### SolidWorks
