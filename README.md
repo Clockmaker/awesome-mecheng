@@ -462,11 +462,17 @@ Cloud based FEA/CFD
 
 
 #### Creo
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/PTC_Creo.png" width="144" align="left" />|*Formerly known as* Pro/ENGINEER.
+<table><tbody><tr>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/PTC_Creo.png" width="144" align="left" /></td>
+<td>
+
+*Formerly known as* Pro/ENGINEER.
 >Website: [https://www.ptc.com/](https://www.ptc.com/)
 >
 >Student Edition: [https://www.ptc.com/en/academic-program/products/free-software](https://www.ptc.com/en/academic-program/products/free-software) 
----|---
+
+</td>
+</tr></tbody></table>
 
 
 #### SolidWorks
