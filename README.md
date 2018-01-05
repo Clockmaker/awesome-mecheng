@@ -479,9 +479,9 @@ Cloud Based CAD
 #### FreeCAD
 <img src="https://www.freecadweb.org/images/logo.png" width="144" align="left" />
 
->Website: [http://www.openscad.org/](http://www.openscad.org/)
-
 *Geometric Kernel* [OpenCASCADE](https://github.com/tpaviot/oce)
+
+>Website: [http://www.openscad.org/](http://www.openscad.org/)
 
 * [A FreeCAD mnaual](https://www.gitbook.com/book/yorikvanhavre/a-freecad-manual/details) `GitBook`
 * [CadQuery Plugin for FreeCAD](https://github.com/jmwright/cadquery-freecad-module), python based language for building parametric models [[Wiki](https://github.com/jmwright/cadquery-freecad-module/wiki)]
