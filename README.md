@@ -449,15 +449,30 @@ Cloud based FEA/CFD
 
 ### <a name="for-cad"></a>For CAD Modeling
 #### CATIA
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/DS-CATIA-Logo.png" width="144" align="left" />
+<table><tbody><tr>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/DS-CATIA-Logo.png" width="144" align="left" /></td>
+<td>
 
-[Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 26th. *Promo code*: `CATIA4FREE17`
+
+>[Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 26th. *Promo code*: `CATIA4FREE17`
+</td>
+</tr></tbody></table>
 
 
 #### NX
-<img src="https://raw.githubusercontent.com/Clockmaker/awesome-mecheng/test/img/nx.svg?sanitize=true" width="144" align="left" />
+<table><tbody><tr>
+<td><img src="../test/img/nx.svg" width="144" align="left" /></td>
+<td>
 
 *Formely known as* Unigraphics.
+
+>Website: [https://www.plm.automation.siemens.com/en/products/nx/](https://www.plm.automation.siemens.com/en/products/nx/)
+>
+>Student Edition: *N/A*
+
+</td>
+</tr></tbody></table>
+
 * [NX Resources](https://www.plm.automation.siemens.com/en/academic/resources/nx/index.shtml) `Siemens`
 
 
@@ -476,15 +491,34 @@ Cloud based FEA/CFD
 
 
 #### SolidWorks
-<img src="https://www.solidworks.com/includes/products/FB_icon.png" width="144" align="left" />| * [Solidworks Resources](http://www.solidworks.com/sw/resources/solidworks-tutorials.htm) `Solidworks`
----|---
+<table><tbody><tr>
+<td><img src="https://www.solidworks.com/includes/products/FB_icon.png" width="144" align="left" /></td>
+<td>
+
+>Website: [https://www.solidworks.com/](https://www.solidworks.com/)
+>
+>Student Edition: [https://www.solidworks.com/sw/educator-evaulation-request.htm](https://www.solidworks.com/sw/educator-evaulation-request.htm) (*60 Days*)
+
+</td>
+</tr></tbody></table>
+
+ * [Solidworks Resources](http://www.solidworks.com/sw/resources/solidworks-tutorials.htm) `Solidworks`
 
 
 #### Solid Edge
-<img src="../test/img/se.svg" width="144" align="left" />
+<table><tbody><tr>
+<td><img src="../test/img/se.svg" width="144" align="left" /></td>
+<td>
+
+>Website: [https://www.plm.automation.siemens.com/it/products/solid-edge/](https://www.plm.automation.siemens.com/it/products/solid-edge/)
+>
+>Student Edition: [https://www.plm.automation.siemens.com/plmapp/se/en_US/online/Shop#ACTION=1189811524](https://www.plm.automation.siemens.com/plmapp/se/en_US/online/Shop#ACTION=1189811524) (*45 Days*)
+
+</td>
+</tr></tbody></table>
 
 * [Solid Edge Resources](https://community.plm.automation.siemens.com/t5/Solid-Edge/ct-p/solid-edge) `Siemens`
- 
+
 #### OnShape
 >Website: [https://www.onshape.com/](https://www.onshape.com/)
 
