@@ -3,5 +3,5 @@
 <text transform="matrix(1 0 0 1 80 130)" fill="#F06" font-family="Arial" font-size="46">NX</text>
 <polyline fill="#BBB" points="61,45 12,8 51,108"/>
 <polygon fill="#F06" points="51,108 0,52 101,41"/>
-<polyline fill="#BdB" points="51,108 110,83 61,45"/>
+<polyline fill="#BBB" points="51,108 110,83 61,45"/>
 </svg>

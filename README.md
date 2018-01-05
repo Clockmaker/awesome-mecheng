@@ -454,7 +454,7 @@ Cloud based FEA/CFD
 [Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 26th. *Promo code*: `CATIA4FREE17`
 
 #### NX
-<img src="../master/img/nx.svg" width="144" align="left" />
+<img src="../test/img/nx.svg" width="144" align="left" />
 
 *Formely known as* Unigraphics.
 * [NX Resources](https://www.plm.automation.siemens.com/en/academic/resources/nx/index.shtml) `Siemens`
@@ -473,7 +473,7 @@ Cloud based FEA/CFD
 * [Solidworks Resources](http://www.solidworks.com/sw/resources/solidworks-tutorials.htm) `Solidworks`
 
 #### Solid Edge
-<img src="../master/img/se.svg" width="144" align="left" />
+<img src="../test/img/se.svg" width="144" align="left" />
 
 * [Solid Edge Resources](https://community.plm.automation.siemens.com/t5/Solid-Edge/ct-p/solid-edge) `Siemens`
  
