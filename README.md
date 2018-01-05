@@ -453,7 +453,6 @@ Cloud based FEA/CFD
 
 [Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 26th. *Promo code*: `CATIA4FREE17`
 
-<br>
 
 #### NX
 <img src="https://raw.githubusercontent.com/Clockmaker/awesome-mecheng/test/img/nx.svg?sanitize=true" width="144" align="left" />
@@ -461,22 +460,19 @@ Cloud based FEA/CFD
 *Formely known as* Unigraphics.
 * [NX Resources](https://www.plm.automation.siemens.com/en/academic/resources/nx/index.shtml) `Siemens`
 
-<br>
 
 #### Creo
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/PTC_Creo.png" width="144" align="left" />
-
-*Formerly known as* Pro/ENGINEER.
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/PTC_Creo.png" width="144" align="left" />|*Formerly known as* Pro/ENGINEER.
 >Website: [https://www.ptc.com/](https://www.ptc.com/)
 >
 >Student Edition: [https://www.ptc.com/en/academic-program/products/free-software](https://www.ptc.com/en/academic-program/products/free-software) 
+---|---
 
-<br>
 
 #### SolidWorks
-<img src="https://www.solidworks.com/sw/images/interface/newredtranslogo.png" width="144" align="left" />
+<img src="https://www.solidworks.com/includes/products/FB_icon.png" width="144" align="left" />| * [Solidworks Resources](http://www.solidworks.com/sw/resources/solidworks-tutorials.htm) `Solidworks`
+---|---
 
-* [Solidworks Resources](http://www.solidworks.com/sw/resources/solidworks-tutorials.htm) `Solidworks`
 
 #### Solid Edge
 <img src="../test/img/se.svg" width="144" align="left" />
