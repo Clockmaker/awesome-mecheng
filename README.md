@@ -479,7 +479,7 @@ Cloud based FEA/CFD
 
 #### Creo
 <table>
-<col width="130">
+<col width="100">
 <col width="670">
 <tr>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/PTC_Creo.png" width="144" align="left" /></td>
