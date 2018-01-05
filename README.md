@@ -453,7 +453,7 @@ Cloud based FEA/CFD
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/DS-CATIA-Logo.png" width="144" align="left" /></td>
 <td>
 
-
+<img src="" width="100%" />
 >[Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 26th. *Promo code*: `CATIA4FREE17`
 </td>
 </tr></tbody></table>
@@ -497,7 +497,7 @@ Cloud based FEA/CFD
 
 >Website: [https://www.solidworks.com/](https://www.solidworks.com/)
 >
->Student Edition: [https://www.solidworks.com/sw/educator-evaulation-request.htm](https://www.solidworks.com/sw/educator-evaulation-request.htm) (*60 Days*)
+>Student Edition: [request](https://www.solidworks.com/sw/educator-evaulation-request.htm) (*60 Days*)
 
 </td>
 </tr></tbody></table>
@@ -512,7 +512,7 @@ Cloud based FEA/CFD
 
 >Website: [https://www.plm.automation.siemens.com/it/products/solid-edge/](https://www.plm.automation.siemens.com/it/products/solid-edge/)
 >
->Student Edition: [https://www.plm.automation.siemens.com/plmapp/se/en_US/online/Shop#ACTION=1189811524](https://www.plm.automation.siemens.com/plmapp/se/en_US/online/Shop#ACTION=1189811524) (*45 Days*)
+>Student Edition: [request](https://www.plm.automation.siemens.com/plmapp/se/en_US/online/Shop#ACTION=1189811524) (*45 Days*)
 
 </td>
 </tr></tbody></table>
