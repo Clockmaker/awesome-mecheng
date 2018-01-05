@@ -453,7 +453,7 @@ Cloud based FEA/CFD
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/DS-CATIA-Logo.png" width="144" align="left" /></td>
 <td>
 
-<img src="//:0" width="670px" height="0" />
+<img src="//:0" width="80%" height="1" />
 
 >[Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 26th. *Promo code*: `CATIA4FREE17`
 </td>
@@ -496,8 +496,6 @@ Cloud based FEA/CFD
 <table><tbody><tr>
 <td><img src="https://www.solidworks.com/includes/products/FB_icon.png" width="144" align="left" /></td>
 <td>
-
-<img src="//:0" width="670px" height="0" />
 
 >Website: [https://www.solidworks.com/](https://www.solidworks.com/)
 >
