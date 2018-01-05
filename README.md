@@ -449,23 +449,37 @@ Cloud based FEA/CFD
 
 ### <a name="for-cad"></a>For CAD Modeling
 #### CATIA
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/DS-CATIA-Logo.png" width="144" align="left" />
+
 [Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 26th. *Promo code*: `CATIA4FREE17`
 
 #### NX
+<svg align="left" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+   x="0px" y="0px" width="144px" height="144px" viewBox="0 0 144 144">
+  <text transform="matrix(1 0 0 1 80.5571 130.2695)" fill="#F06" font-family="'Arial-BoldMT'" font-size="45.67">NX</text>
+  <polygon fill="#F06" points="51.019,108.786 0,52.396 101.591,41.655   "/>
+  <polyline fill="#BBB" points="61.125,45.934 12.083,8.538 27.969,49.438  "/>
+  <polyline fill="#BBB" points="51.019,108.786 110.094,83.276 61.125,45.934   "/>
+</svg>
+
 *Formely known as* Unigraphics.
 * [NX Resources](https://www.plm.automation.siemens.com/en/academic/resources/nx/index.shtml) `Siemens`
 
 #### Creo
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/PTC_Creo.png" width="144" align="left" />
+
 *Formerly known as* Pro/ENGINEER.
 >Website: [https://www.ptc.com/](https://www.ptc.com/)
 >
 >Student Edition: [https://www.ptc.com/en/academic-program/products/free-software](https://www.ptc.com/en/academic-program/products/free-software) 
 
 #### SolidWorks
+<img src="https://www.solidworks.com/sw/images/interface/newredtranslogo.png" width="144" align="left" />
 
 * [Solidworks Resources](http://www.solidworks.com/sw/resources/solidworks-tutorials.htm) `Solidworks`
 
 #### Solid Edge
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Siemens-logo.svg" width="144" align="left" />
 
 * [Solid Edge Resources](https://community.plm.automation.siemens.com/t5/Solid-Edge/ct-p/solid-edge) `Siemens`
  
