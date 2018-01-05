@@ -454,7 +454,10 @@ Cloud based FEA/CFD
 <td>
 <img src="//:0" width="670" height="0" />
 
->[Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 26th. *Promo code*: `CATIA4FREE17`
+>Website: [https://www.3ds.com/products-services/catia/](https://www.3ds.com/products-services/catia/)
+>
+>[Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 26th.
+>*Promo code*: `CATIA4FREE17`
 
 </td></tr></tbody></table>
 
@@ -528,11 +531,17 @@ Cloud Based CAD
 ###### OpenSource
 
 #### FreeCAD
-<img src="https://www.freecadweb.org/images/logo.png" width="144" align="left" />
+<table><tbody><tr>
+<td><img src="https://www.freecadweb.org/images/logo.png" width="144" align="left" /></td>
+<td>
+<img src="//:0" width="670" height="0" />
+
 
 *Geometric Kernel* [OpenCASCADE](https://github.com/tpaviot/oce)
 
 >Website: [http://www.openscad.org/](http://www.openscad.org/)
+
+</td></tr></tbody></table>
 
 * [A FreeCAD mnaual](https://www.gitbook.com/book/yorikvanhavre/a-freecad-manual/details) `GitBook`
 * [CadQuery Plugin for FreeCAD](https://github.com/jmwright/cadquery-freecad-module), python based language for building parametric models [[Wiki](https://github.com/jmwright/cadquery-freecad-module/wiki)]
