@@ -454,6 +454,7 @@ Cloud based FEA/CFD
 [Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 26th. *Promo code*: `CATIA4FREE17`
 
 <br>
+
 #### NX
 <img src="https://raw.githubusercontent.com/Clockmaker/awesome-mecheng/test/img/nx.svg?sanitize=true" width="144" align="left" />
 
@@ -461,6 +462,7 @@ Cloud based FEA/CFD
 * [NX Resources](https://www.plm.automation.siemens.com/en/academic/resources/nx/index.shtml) `Siemens`
 
 <br>
+
 #### Creo
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/PTC_Creo.png" width="144" align="left" />
 
@@ -470,6 +472,7 @@ Cloud based FEA/CFD
 >Student Edition: [https://www.ptc.com/en/academic-program/products/free-software](https://www.ptc.com/en/academic-program/products/free-software) 
 
 <br>
+
 #### SolidWorks
 <img src="https://www.solidworks.com/sw/images/interface/newredtranslogo.png" width="144" align="left" />
 
