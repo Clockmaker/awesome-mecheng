@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!-- github.com/clockmaker -->
-<svg align="left" x="0px" y="0px" width="144px" height="144px" viewBox="0 0 144 144">
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="144px" height="144px" viewBox="0 0 144 144">
 <text transform="matrix(1 0 0 1 80 130)" fill="#F06" font-family="Arial" font-size="46">NX</text>
 <polyline fill="#BBB" points="61,45 12,8 51,108"/>
 <polygon fill="#F06" points="51,108 0,52 101,41"/>
