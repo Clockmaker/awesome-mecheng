@@ -454,12 +454,11 @@ Cloud based FEA/CFD
 [Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 26th. *Promo code*: `CATIA4FREE17`
 
 #### NX
-<svg align="left" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-   x="0px" y="0px" width="144px" height="144px" viewBox="0 0 144 144">
-  <text transform="matrix(1 0 0 1 80.5571 130.2695)" fill="#F06" font-family="'Arial-BoldMT'" font-size="45.67">NX</text>
-  <polygon fill="#F06" points="51.019,108.786 0,52.396 101.591,41.655   "/>
-  <polyline fill="#BBB" points="61.125,45.934 12.083,8.538 27.969,49.438  "/>
-  <polyline fill="#BBB" points="51.019,108.786 110.094,83.276 61.125,45.934   "/>
+<svg align="left" x="0px" y="0px" width="144px" height="144px" viewBox="0 0 144 144">
+<text transform="matrix(1 0 0 1 80 130)" fill="#F06" font-family="Arial" font-size="46">NX</text>
+<polygon fill="#F06" points="51.019,108.786 0,52.396 101.591,41.655   "/>
+<polyline fill="#BBB" points="61.125,45.934 12.083,8.538 27.969,49.438  "/>
+<polyline fill="#BBB" points="51.019,108.786 110.094,83.276 61.125,45.934   "/>
 </svg>
 
 *Formely known as* Unigraphics.
