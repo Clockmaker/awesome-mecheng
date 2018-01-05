@@ -477,6 +477,7 @@ Cloud Based CAD
 ###### OpenSource
 
 #### FreeCAD
+<img src="https://www.freecadweb.org/images/logo.png" align="left" />
 >Website: [http://www.openscad.org/](http://www.openscad.org/)
 
 *Geometric Kernel* [OpenCASCADE](https://github.com/tpaviot/oce)
