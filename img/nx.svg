@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!-- github.com/clockmaker -->
 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="144px" height="144px" viewBox="0 0 144 144">
-<text transform="matrix(1 0 0 1 80 130)" fill="#F06" font-family="Arial" font-size="46">NX</text>
-<polyline fill="#BBB" points="61,45 12,8 51,108"/>
-<polygon fill="#F06" points="51,108 0,52 101,41"/>
-<polyline fill="#BBB" points="51,108 110,83 61,45"/>
+<polygon fill="#B12" points="61,45 101,41 51,108"/>
+<linearGradient id="g" gradientUnits="userSpaceOnUse" x1="5" y1="35" x2="80" y2="90">
+	<stop  offset="0" style="stop-color:#999"/>
+	<stop  offset=".5" style="stop-color:#EEE"/>
+	<stop  offset="1" style="stop-color:#999"/>
+</linearGradient>
+<polygon fill="url(#g)" points="51,108 110,83 12,8"/>
+<polygon fill="#B12" points="51,108 0,52 61,45"/>
+<text transform="matrix(1 0 0 1 80 130)" fill="#B12" font-family="Arial" font-size="46">NX</text>
 </svg>
