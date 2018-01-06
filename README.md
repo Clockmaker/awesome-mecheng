@@ -450,8 +450,7 @@ Cloud based FEA/CFD
 ### <a name="for-cad"></a>For CAD Modeling
 #### CATIA
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/DS-CATIA-Logo.png" width="64" align="left" />
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/DS-CATIA-Logo.png" width="64" align="right" />
 
 >Website: [https://www.3ds.com/products-services/catia/](https://www.3ds.com/products-services/catia/)
 >
@@ -461,8 +460,7 @@ Cloud based FEA/CFD
 
 #### NX
 
-<img src="../test/img/nx.svg" width="64" align="left" />
-
+<img src="../test/img/nx.svg" width="64" align="right" />
 
 *Formely known as* Unigraphics.
 
@@ -475,8 +473,7 @@ Cloud based FEA/CFD
 
 #### Creo
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/PTC_Creo.png" width="64" align="left" />
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/PTC_Creo.png" width="64" align="right" />
 
 *Formerly known as* Pro/ENGINEER.
 >Website: [https://www.ptc.com/](https://www.ptc.com/)
@@ -486,8 +483,7 @@ Cloud based FEA/CFD
 
 #### SolidWorks
 
-<img src="https://www.solidworks.com/includes/products/FB_icon.png" width="64" align="left" />
-
+<img src="https://www.solidworks.com/includes/products/FB_icon.png" width="64" align="right" />
 
 >Website: [https://www.solidworks.com/](https://www.solidworks.com/)
 >
@@ -515,21 +511,17 @@ Cloud Based CAD
 ###### OpenSource
 
 #### FreeCAD
-<table><tbody><tr>
-<td><img src="https://www.freecadweb.org/images/logo.png" width="144" align="left" /></td>
-<td>
-<img src="//:0" width="670" height="0" />
 
+<img src="https://www.freecadweb.org/images/logo.png" width="64" align="right" />
 
 *Geometric Kernel* [OpenCASCADE](https://github.com/tpaviot/oce)
 
 >Website: [http://www.openscad.org/](http://www.openscad.org/)
 
-</td></tr></tbody></table>
-
 * [A FreeCAD mnaual](https://www.gitbook.com/book/yorikvanhavre/a-freecad-manual/details) `GitBook`
 * [CadQuery Plugin for FreeCAD](https://github.com/jmwright/cadquery-freecad-module), python based language for building parametric models [[Wiki](https://github.com/jmwright/cadquery-freecad-module/wiki)]
   * [CadQuery Documentation](http://dcowden.github.io/cadquery/)
+
 
 #### OpenSCAD
 >Website: [http://www.openscad.org/](http://www.openscad.org/)
