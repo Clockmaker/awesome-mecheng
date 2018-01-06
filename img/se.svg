@@ -9,5 +9,5 @@
 </linearGradient>
 <polygon fill="url(#g)" points="51,108 110,83 12,8"/>
 <polygon fill="#06B" points="51,108 0,52 61,45"/>
-<text transform="matrix(1 0 0 1 80 130)" fill="#06B" font-family="Arial" font-size="46">SE</text>
+<text transform="matrix(1 0 0 1 80 130)" fill="#06B" font-family="Arial" font-weight="bold" font-size="46">SE</text>
 </svg>
