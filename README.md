@@ -494,7 +494,7 @@ Cloud based FEA/CFD
 
 #### Solid Edge
 
-<img src="../test/img/se.svg" width="64" align="left" />
+<img src="../test/img/se.svg" width="64" align="right" />
 
 >Website: [https://www.plm.automation.siemens.com/it/products/solid-edge/](https://www.plm.automation.siemens.com/it/products/solid-edge/)
 >
