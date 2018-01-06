@@ -449,24 +449,20 @@ Cloud based FEA/CFD
 
 ### <a name="for-cad"></a>For CAD Modeling
 #### CATIA
-<table><tbody><tr>
-<td><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/DS-CATIA-Logo.png" width="144" align="left" /></td>
-<td>
-<img src="//:0" width="670" height="0" />
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/DS-CATIA-Logo.png" width="64" align="left" />
+
 
 >Website: [https://www.3ds.com/products-services/catia/](https://www.3ds.com/products-services/catia/)
 >
 >[Student Edition](https://academy.3ds.com/en/software/catia-v5-student-edition) until Nov. 26th.
 >*Promo code*: `CATIA4FREE17`
 
-</td></tr></tbody></table>
-
 
 #### NX
-<table><tbody><tr>
-<td><img src="../test/img/nx.svg" width="144" align="left" /></td>
-<td>
-<img src="//:0" width="670" height="0" />
+
+<img src="../test/img/nx.svg" width="64" align="left" />
+
 
 *Formely known as* Unigraphics.
 
@@ -474,51 +470,39 @@ Cloud based FEA/CFD
 >
 >Student Edition: *N/A*
 
-</td></tr></tbody></table>
-
 * [NX Resources](https://www.plm.automation.siemens.com/en/academic/resources/nx/index.shtml) `Siemens`
 
 
 #### Creo
-<table><tbody><tr>
-<td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/PTC_Creo.png" width="144" align="left" /></td>
-<td>
-<img src="//:0" width="670" height="0" />
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/PTC_Creo.png" width="64" align="left" />
+
 
 *Formerly known as* Pro/ENGINEER.
 >Website: [https://www.ptc.com/](https://www.ptc.com/)
 >
 >Student Edition: [https://www.ptc.com/en/academic-program/products/free-software](https://www.ptc.com/en/academic-program/products/free-software) 
 
-</td></tr></tbody></table>
-
 
 #### SolidWorks
-<table><tbody><tr>
-<td><img src="https://www.solidworks.com/includes/products/FB_icon.png" width="144" align="left" /></td>
-<td>
-<img src="//:0" width="670" height="0" />
+
+<img src="https://www.solidworks.com/includes/products/FB_icon.png" width="64" align="left" />
+
 
 >Website: [https://www.solidworks.com/](https://www.solidworks.com/)
 >
 >Student Edition: [request](https://www.solidworks.com/sw/educator-evaulation-request.htm) (*60 Days*)
 
-</td></tr></tbody></table>
-
  * [Solidworks Resources](http://www.solidworks.com/sw/resources/solidworks-tutorials.htm) `Solidworks`
 
 
 #### Solid Edge
-<table><tbody><tr>
-<td><img src="../test/img/se.svg" width="144" align="left" /></td>
-<td>
-<img src="//:0" width="670" height="0" />
+
+<img src="../test/img/se.svg" width="64" align="left" />
 
 >Website: [https://www.plm.automation.siemens.com/it/products/solid-edge/](https://www.plm.automation.siemens.com/it/products/solid-edge/)
 >
 >Student Edition: [request](https://www.plm.automation.siemens.com/plmapp/se/en_US/online/Shop#ACTION=1189811524) (*45 Days*)
-
-</td></tr></tbody></table>
 
 * [Solid Edge Resources](https://community.plm.automation.siemens.com/t5/Solid-Edge/ct-p/solid-edge) `Siemens`
 
